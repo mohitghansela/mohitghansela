@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-  <img src="https://github.com/your-username/your-repository/blob/main/path-to-your-image.gif?raw=true" alt="boy coding animation" width="300" height="300"/>
+  <img src="https://github.com/mohitghansela/mohitghansela/blob/main/coding_image.gif" alt="boy coding animation" width="300" height="300"/>
 
 
 </p>
