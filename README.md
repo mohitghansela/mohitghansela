@@ -7,6 +7,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mohit-ghansela/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+  </a>
+</p>
+
+
+<p align="left">
   
   <img src="https://github.com/mohitghansela/mohitghansela/blob/main/coding_image.gif" alt="boy coding animation" width="300" height="300"/>
 
