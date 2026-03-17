@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Mohit Ghansela</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on **Vote_Chain Application**
+- 🌱 Learning **Machine Learning, Data Analysis & AI**
 
-- 🌱 I’m currently learning **Blockchain**
+- 💡 Interested in **Predictive Models & Real-world Data Applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
