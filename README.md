@@ -33,17 +33,15 @@
 ---
 
 ### ⚙️ Tech Stack
-<p align="center">
+<p align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 15px; overflow-x: auto; padding: 10px 0;">
 
-<!-- Core -->
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git" /><br><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git" height="45"/>
 
-<!-- Data-specific (manual icons for accuracy) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="45"/>
 
 </p>
 
