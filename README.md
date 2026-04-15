@@ -1,70 +1,53 @@
- <h1 align="center">Hi 👋, I'm Mohit Ghansela</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm Mohit Ghansela
+  </span>
+</h1>
 
-- 🌱 Learning **Machine Learning, Data Analysis & AI**
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Web+Developer;AI+%7C+ML+Enthusiast;Data+Driven+Thinker" />
+</h3>
 
+---
+
+### 🌱 About Me
+- 🚀 Exploring **Machine Learning, Data Analysis & AI**
 - 💡 Interested in **Predictive Models & Real-world Data Applications**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### 🤝 Connect with me
+<p align="center">
   <a href="https://www.linkedin.com/in/mohit-ghansela/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white" alt="LinkedIn" width="150" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
+---
 
-<p align="left">
-  
-  <img src="https://github.com/mohitghansela/mohitghansela/blob/main/coding_image.gif" alt="boy coding animation" width="300" height="300"/>
-
-
+### 💻 Coding Vibes
+<p align="center">
+  <img src="https://github.com/mohitghansela/mohitghansela/blob/main/coding_image.gif" width="280"/>
 </p>
 
-<h3 align="left">⚙️ Languages and Tools:</h3>
-<p align="left">
+---
 
-<a href="https://www.python.org" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,matplotlib,git" />
+</p>
 
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
+### ✨ Extra Aesthetic Touch
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitghansela&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+</p>
 
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
+---
 
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
-</a>
-
-<a href="https://jupyter.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
+### 🎯 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitghansela&label=Profile+Views&color=00C9FF&style=flat" />
 </p>
