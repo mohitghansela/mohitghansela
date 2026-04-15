@@ -5,13 +5,13 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=500&lines=Web+Developer;AI+%7C+ML+Enthusiast;Data+Driven+Thinker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Machine+Learning+Learner;AI+%7C+Data+Analysis" />
 </h3>
 
 ---
 
 ### 🌱 About Me
-- 🚀 Exploring **Machine Learning, Data Analysis & AI**
+- 📊 Passionate about **Data Analysis, Machine Learning & AI**
 - 💡 Interested in **Predictive Models & Real-world Data Applications**
 
 ---
@@ -34,12 +34,22 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,matplotlib,git" />
+
+<!-- Core -->
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git" /><br><br>
+
+<!-- Data-specific (manual icons for accuracy) -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+
 </p>
 
 ---
 
-### ✨ Extra Aesthetic Touch
+### ✨ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitghansela&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
