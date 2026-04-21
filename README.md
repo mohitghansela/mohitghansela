@@ -15,18 +15,16 @@
 - 💡 Interested in **Predictive Models & Real-world Data Applications**
 
 ---
-
 ### 🤝 Connect with me
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohit-ghansela/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohit-ghansela/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://www.instagram.com/_mohit_ghansela_/" target="_blank">
+  <a href="https://www.instagram.com/_mohit_ghansela_/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ### 💻 Coding Vibes
