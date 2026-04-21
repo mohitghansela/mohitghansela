@@ -26,6 +26,7 @@
   </a>
 </p>
 
+---
 
 ### 💻 Coding Vibes
 <p align="center">
