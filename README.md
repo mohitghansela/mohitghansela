@@ -50,9 +50,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@
 ### 🎯 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitghansela&label=Profile+Views&color=00C9FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mohitghansela&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
