@@ -42,38 +42,17 @@
 ### ⚙️ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,git,github,vscode" height="50"/>
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="45"/>
-
+  <img src="https://skillicons.dev/icons?i=python,fastapi,tensorflow,pytorch,sklearn,pandas,mysql,sqlite,git,github,vscode" />
 </p>
 
 ---
 
-### ✨ GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-  <img src="https://streak-stats.demolab.com?user=mohitghansela&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitghansela&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
