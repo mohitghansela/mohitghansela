@@ -1,7 +1,5 @@
 <h1 align="center">
-  <span style="background: linear-gradient(90deg,#00C9FF,#92FE9D); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Mohit Ghansela
-  </span>
+  Hi 👋, I'm Mohit Ghansela
 </h1>
 
 <h3 align="center">
@@ -14,10 +12,12 @@
 
 - 📊 Passionate about **Data Analysis, Machine Learning & AI**
 - 💡 Interested in **Predictive Models & Real-world Data Applications**
+- 🚀 Currently exploring **FastAPI, AI & Backend Development**
+- 🐍 Python Enthusiast
 
 ---
 
-### 🤝 Connect with me
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-ghansela/" target="_blank">
@@ -43,14 +43,13 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,git" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,fastapi,git,github,vscode" height="50"/>
 
 <br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="45"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="45"/>
 
 </p>
@@ -60,9 +59,21 @@
 ### ✨ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitghansela&theme=tokyonight&hide_border=true&border_radius=10" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=mohitghansela&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitghansela&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -70,5 +81,13 @@
 ### 🎯 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitghansela&label=Profile+Views&color=00C9FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mohitghansela&label=Profile+Views&color=00C9FF&style=for-the-badge" />
+</p>
+
+---
+
+### 💡 Quote
+
+<p align="center">
+  <i>"Learning never exhausts the mind."</i>
 </p>
