@@ -50,10 +50,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <!-- Animated GitHub Stats Card -->
+  <img height="180em" src="https://vercel.app" alt="Mohit GitHub Stats" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=radical&hide_border=true"/>
+  <!-- Animated Top Languages Card -->
+  <img height="180em" src="https://vercel.app" alt="Mohit Top Languages" />
 </p>
+
+<p align="center">
+  <!-- Bonus: Super Cool Animated Streak Stats (Ye aapki profile ko aur dynamic banayega) -->
+  <img height="160em" src="https://herokuapp.com" alt="Mohit GitHub Streak" />
+</p>
+
 
 ---
 
