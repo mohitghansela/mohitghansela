@@ -38,38 +38,7 @@ class Mohit:
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mohitghansela&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitghansela&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohitghansela&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitghansela&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitghansela&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
-> ⚠️ Note: the stats cards above use the public Vercel-hosted `github-readme-stats` / `streak-stats` / `activity-graph` services — they'll render automatically once this README is on your profile repo (`mohitghansela/mohitghansela`). No setup needed, just replace the username if it ever changes.
-
----
-
-### 🐍 Contribution Snake (animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mohitghansela/mohitghansela/output/github-contribution-grid-snake.svg" width="95%" />
-</p>
-
-> To make this animation work: add the [`Platane/snk`](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates this SVG from your contribution graph on a schedule. I can write that workflow file for you if you'd like.
-
----
 
 ### 🤝 Connect with Me
 
